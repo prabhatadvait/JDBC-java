@@ -1,0 +1,21 @@
+STEPS:- To make connections , client -
+
+1. Import Packages
+2. Load Driver
+3. Register Driver
+4. Create Connection
+5. Create Statement
+close
+
+✅ JDBC:
+Low-level API for interacting directly with relational databases using SQL queries.
+You manually:
+Write SQL (SELECT, INSERT, etc.)
+Handle ResultSet
+Map table rows to Java objects (manually)
+
+✅ ORM Tools (like Hibernate):
+Automatically map Java classes to DB tables.
+You work with Java objects, and it handles SQL behind the scenes.
+
+
